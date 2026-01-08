@@ -7,10 +7,10 @@
 About (О проекте):
 
 EN:
-`Zcoin is currently a meme coin, but is planned to be used as a link for Z Network services in the future."`
+`"Zcoin is currently a meme coin, but is planned to be used as a link for Z Network services in the future."`
 
 RU:
-`Zcoin сейчас является мем-коином, но в будущем планиется как связующее звено для сервисов Z Network».`
+`«Zcoin сейчас является мем-коином, но в будущем планиется как связующее звено для сервисов Z Network».`
 
 Tokenomics (Токеномика):
 - Total Supply: 21,000,000 ZCOIN.
@@ -24,5 +24,4 @@ Roadmap (Дорожная карта):
 
 
 ---
-© 2026 Zcoin TON | WebSite: [https://zcoin.to](https://zcoin.to) | Wallet: [zcoin.ton](https://tonviewer.com/zcoin.ton) | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: [https://t.me/zcoin_to](https://t.me/zcoin_to)
-
+© 2026 Zcoin TON. | WebSite: [https://zcoin.to](https://zcoin.to) | Wallet: [zcoin.ton](https://tonviewer.com/zcoin.ton) | TonViewer: [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | TG Channel: [zcoin_to.t.me](https://zcoin_to.t.me)
