@@ -1,26 +1,30 @@
 ![Logo ZCoin](https://zcoin-ton.github.io/website/logo-web-bw.png)
 
-# Zcoin TON (ZCOIN) — The Utility Token of Z Network.
+# Zcoin TON (ZCOIN) — Community-driven token for subdomain and Z Network ecosystem experimental use.
 
 ---
 
 About (О проекте):
 
 EN:
-`"Zcoin is currently a meme coin, but is planned to be used as a link for Z Network services in the future."`
+`"Zcoin TON (ZCOIN) — community token on TON for subdomain and Z Network ecosystem experiments. Currently experimental."`
 
 RU:
-`«Zcoin сейчас является мем-коином, но в будущем планиется как связующее звено для сервисов Z Network».`
+`«Zcoin TON (ZCOIN) — сообщественный токен на TON для поддоменов и сервисов Z Network. В настоящее время экспериментальный».`
 
 Tokenomics (Токеномика):
-- Total Supply: 21,000,000 ZCOIN.
-- Circulating Supply: 1,000,000 ZCOIN (Team & Marketing).
-- Liquidity & Ecosystem: 20,000,000 ZCOIN.
+- Fixed Total Supply: 21,000,000 ZCOIN.
+- Circulating Supply: 2,500,000 ZCOIN (Team & Marketing).
+- Liquidity & Ecosystem: 18,500,000 ZCOIN.
 
 Roadmap (Дорожная карта):
 - Q1 2026: Token launch and verification (Запуск токена и верификация).
 - Q2 2026: Liquidity pool creation (Создание пула ликвидности).
 - QX 202X: Integration into Z Network services (Интеграция в сервисы Z Network).
+
+
+Disclaimer: 
+`Zcoin TON (ZCOIN) is a non-profit community token. The name “Zcoin” is used for this experimental project on The Open Network (TON) and is not affiliated with any other project or token with a similar name.`
 
 
 ---
