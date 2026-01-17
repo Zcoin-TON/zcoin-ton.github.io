@@ -38,14 +38,18 @@ RU:
 
 ### Dashboard and Information:
 
-*   **Website:** [zcoin.to](https://zcoin.to)
-*   **TG Channel:** [zcoin_to.t.me](https://zcoin_to.t.me)
-*   **TG Community Chat:** [zcointon.t.me](https://zcointon.t.me)
+*   **Main link and social:**
+     - **Website:** [zcoin.to](https://zcoin.to)
+     - **TG Channel:** [zcoin_to.t.me](https://zcoin_to.t.me)
+     - **TG Community Chat:** [zcointon.t.me](https://zcointon.t.me)
 
-*   **Minter:** [ZCOIN](https://minter.ton.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **TonViewer:** [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **DYOR.io:** [Metrics](https://dyor.io/token/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **TonScan:** [Metrics](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [Holders](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU#holders)
+*   **About ZCOIN Token:**
+     - **Minter:** [ZCOIN](https://minter.ton.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - **TonViewer:** [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - **DYOR.io:** [Metrics](https://dyor.io/token/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - **TonScan:**
+       - [Metrics](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+       - [Holders](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU#holders)
 
 *   **Liquidity Lock Proof:**
      - [TonRaffles LP ZCOIN](https://tonraffles.app/lock/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
@@ -53,7 +57,7 @@ RU:
 
 *   **POOL:**
      - [STON.FI](https://app.ston.fi/pools/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG) | [TonViever info LP](https://tonviewer.com/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
-     - [DeDust](https://dedust.io/pools/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI) | [ZCOIN TON INFO](https://dedust.io/coins/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [TonViever info LP](https://tonviewer.com/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI)
+     - [DeDust](https://dedust.io/pools/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI) | [TonViever info LP](https://tonviewer.com/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI) | [ZCOIN TON INFO](https://dedust.io/coins/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
 
 *   **SWAP:**
      - [STON.FI](https://app.ston.fi/swap?chartVisible=true&chartInterval=1m&ft=TON&tt=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
