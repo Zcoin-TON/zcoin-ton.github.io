@@ -14,6 +14,8 @@ RU:
 
 ---
 
+### Tokenomics (Токеномика):
+
 *   **Fixed Total Supply:** 21,000,000 ZCOIN (**100%**) — Фиксированная эмиссия.
 *   **Locked Supply (Reserve):** 15,000,000 ZCOIN (**71.4%**) / (Team, Marketing, Initial Trade). — Заблокировано до 23.02.2026. Это резерв для будущего развития экосистемы, маркетинга и листинга.
 *   **Circulating Supply:** 6,000,000 ZCOIN (**28.6%**) — Текущий объем в обороте.
@@ -39,13 +41,37 @@ RU:
 *   **Website:** [zcoin.to](https://zcoin.to)
 *   **TG Channel:** [zcoin_to.t.me](https://zcoin_to.t.me)
 *   **TG Community Chat:** [zcointon.t.me](https://zcointon.t.me)
+
+*   **Minter:** [ZCOIN](https://minter.ton.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
 *   **TonViewer:** [ZCoin TON](https://tonviewer.com/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **DYOR.io:** [Metrics](https://dyor.io/token/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [SWAP](https://dyor.io/ru/swap?currency=pair&from=EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs&to=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **Liquidity Lock Proof:** [TonRaffles LP ZCOIN](https://tonraffles.app/lock/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG) | [TonRaffles ZCOIN TOKEN](https://tonraffles.app/lock/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
-*   **TonScan:** [ZCoin TON](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [Holders](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU#holders)
-*   **STON.FI:** [SWAP](https://app.ston.fi/swap?chartVisible=true&chartInterval=1m&ft=TON&tt=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [POOL](https://app.ston.fi/pools/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG) | [TonViever info LP](https://tonviewer.com/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
-*   **DeDust:** [SWAP](https://dedust.io/swap/TON/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [POOL](https://dedust.io/pools/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI) | [ZCOIN TON](https://dedust.io/coins/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [TonViever info LP](https://tonviewer.com/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI)
-*   **TRADE:** [GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG) | [DexScanner](https://dexscreener.com/ton/eqaivixliurfnfk6uznerjjdqrt4vmv_hbh8kdsqdfciqieg) | [x1000](https://x1000.finance/tokens/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [CoinMarketCap](https://dex.coinmarketcap.com/token/ton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU/)
+*   **DYOR.io:** [Metrics](https://dyor.io/token/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+*   **TonScan:** [Metrics](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [Holders](https://tonscan.org/jetton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU#holders)
+
+*   **Liquidity Lock Proof:**
+     - [TonRaffles LP ZCOIN](https://tonraffles.app/lock/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
+     - [TonRaffles ZCOIN TOKEN](https://tonraffles.app/lock/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+
+*   **POOL:**
+     - [STON.FI](https://app.ston.fi/pools/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG) | [TonViever info LP](https://tonviewer.com/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
+     - [DeDust](https://dedust.io/pools/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI) | [ZCOIN TON INFO](https://dedust.io/coins/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU) | [TonViever info LP](https://tonviewer.com/EQDkFGFyMbmXaKQrpaMfmCE_oIRSlVYEhANuIa_ERPWrIyzI)
+
+*   **SWAP:**
+     - [STON.FI](https://app.ston.fi/swap?chartVisible=true&chartInterval=1m&ft=TON&tt=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - [DeDust](https://dedust.io/swap/TON/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - [DYIR](https://dyor.io/ru/swap?currency=pair&from=EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs&to=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - [Rango](https://app.rango.exchange/ru/bridge?fromBlockchain=TON&fromToken=TON&toBlockchain=TON&toToken=ZCOIN--EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU&fromAmount=0.1)
+     - [RAINBOW](https://rainbow.ag/TON/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+
+*   **TRADE:**
+     - [GeckoTerminal](https://www.geckoterminal.com/ton/pools/EQAIViXliuRFNFK6UZneRJjDqRt4VmV_hbh8kDSqDFcIQiEG)
+     - [DexScanner](https://dexscreener.com/ton/eqaivixliurfnfk6uznerjjdqrt4vmv_hbh8kdsqdfciqieg) 
+     - [x1000](https://x1000.finance/tokens/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+     - [CoinMarketCap](https://dex.coinmarketcap.com/token/ton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU/)
+     - [Mars](https://mars.tonplanets.com/en/dex/?from=TON&to=EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+
+* **Scenners:**
+    - [Certik](https://skynet.certik.com/tools/token-scan/ton/EQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUqYU)
+    - [CyberScope](https://www.cyberscope.io/audits/TON-UQAgiOoiEcPkGCfygnH5LVho4MquQ2sgJFzCXyzPl-frUvvR)
 
 ---
 
